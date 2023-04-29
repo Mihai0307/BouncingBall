@@ -1,0 +1,17 @@
+C:\Users\Mike\Desktop\Bouncing Ball\bin\Debug\net6.0-windows\Bouncing Ball.exe
+C:\Users\Mike\Desktop\Bouncing Ball\bin\Debug\net6.0-windows\Bouncing Ball.deps.json
+C:\Users\Mike\Desktop\Bouncing Ball\bin\Debug\net6.0-windows\Bouncing Ball.runtimeconfig.json
+C:\Users\Mike\Desktop\Bouncing Ball\bin\Debug\net6.0-windows\Bouncing Ball.dll
+C:\Users\Mike\Desktop\Bouncing Ball\bin\Debug\net6.0-windows\Bouncing Ball.pdb
+C:\Users\Mike\Desktop\Bouncing Ball\obj\Debug\net6.0-windows\Bouncing Ball.csproj.AssemblyReference.cache
+C:\Users\Mike\Desktop\Bouncing Ball\obj\Debug\net6.0-windows\Bouncing Ball.csproj.GenerateResource.cache
+C:\Users\Mike\Desktop\Bouncing Ball\obj\Debug\net6.0-windows\Bouncing Ball.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mike\Desktop\Bouncing Ball\obj\Debug\net6.0-windows\Bouncing Ball.AssemblyInfoInputs.cache
+C:\Users\Mike\Desktop\Bouncing Ball\obj\Debug\net6.0-windows\Bouncing Ball.AssemblyInfo.cs
+C:\Users\Mike\Desktop\Bouncing Ball\obj\Debug\net6.0-windows\Bouncing Ball.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Desktop\Bouncing Ball\obj\Debug\net6.0-windows\Bouncing Ball.dll
+C:\Users\Mike\Desktop\Bouncing Ball\obj\Debug\net6.0-windows\refint\Bouncing Ball.dll
+C:\Users\Mike\Desktop\Bouncing Ball\obj\Debug\net6.0-windows\Bouncing Ball.pdb
+C:\Users\Mike\Desktop\Bouncing Ball\obj\Debug\net6.0-windows\Bouncing Ball.genruntimeconfig.cache
+C:\Users\Mike\Desktop\Bouncing Ball\obj\Debug\net6.0-windows\ref\Bouncing Ball.dll
+C:\Users\Mike\Desktop\Bouncing Ball\obj\Debug\net6.0-windows\Bouncing_Ball.BouncingBall.resources
